@@ -1,0 +1,10 @@
+tensorflow
+tensorflow-hub
+keras
+matplotlib
+numpy
+pandas
+librosa
+soundfile
+torchvggish
+torch
