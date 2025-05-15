@@ -1,7 +1,7 @@
 data/
 Models/
 yammnet/
-
+python-script/yammnet/yammnet/
 
 *.mat
 *.mlx
