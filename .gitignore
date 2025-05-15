@@ -4,7 +4,6 @@ yammnet/
 python-script/yammnet/yammnet/
 
 *.mat
-*.mlx
 *.zip
 
 
